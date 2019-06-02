@@ -1,4 +1,5 @@
 # fit-to-artboard
+![alt text](fit-to-artboard/images/icn-192.png)
 XD Plugin that resize shapes to fit the artboard in no time, using a custom keyboard shortcut
 
 ## How does it work?
