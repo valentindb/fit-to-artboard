@@ -15,7 +15,12 @@
   "description" : "Resize shapes to fit the artboard in no time, using a custom keyboard shortcut",
   "helpUrl" : "https://twitter.com/valentindb",
   "main" : "main.js",
-  "icons" : [ {
+  "icons" : [ 
+    {
+      "path" : "images/icn-24.png",
+      "width" : 24,
+      "height" : 24
+    }, {
     "path" : "images/icn-48.png",
     "width" : 48,
     "height" : 48
