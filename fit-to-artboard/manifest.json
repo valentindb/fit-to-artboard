@@ -1,7 +1,7 @@
 {
   "name" : "Fit to Artboard",
-  "version" : "1.0.0",
-  "releaseNotes" : "First release. Please, report bugs and ideas @valentindb, thanks!",
+  "version" : "1.0.1",
+  "releaseNotes" : "Fit height shortcut changed to CMD+Shift+J to avoid conflict with the horizontal scrolling feature recently added to XD. Please, report bugs and ideas @valentindb, thanks!",
   "host" : {
     "app" : "XD",
     "minVersion" : "13.0"
