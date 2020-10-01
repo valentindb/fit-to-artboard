@@ -7,7 +7,7 @@ The plugin brings 2 useful keyboard shortcuts to Adobe XD:
 
 **Cmd+Shift+n :** Resize the selected object to fit the artboard's **width**.
 
-**Cmd+Shift+h :** Resize the selected object to fit the artboard's **height**.
+**Cmd+Shift+j :** Resize the selected object to fit the artboard's **height**.
 
 
 ### Important notes :
